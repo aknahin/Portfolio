@@ -25,8 +25,8 @@ const header = {
       description:
         'A front end web developer portfolio for my self. Simple and clean design.',
       stack: ['React'],
-      sourceCode: 'https://github.com/aknahin',
-      livePreview: 'https://aknahin.github.com',
+      sourceCode: 'https://github.com/aknahin/Portfolio',
+      livePreview: 'https://aknahin.netlify.app/',
     },
   ]
   
